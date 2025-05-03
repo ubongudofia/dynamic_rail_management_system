@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"de4594126bd342c995b3344f47bffb47","collectionName":"train_schedules","type":"collection"}
